@@ -548,3 +548,4 @@ plt.xlabel("a1",fontdict=font1)
 plt.ylabel("a2",fontdict=font2)
 plt.show()
 '''
+https://www.geeksforgeeks.org/data-science-with-python-tutorial/
